@@ -29,7 +29,9 @@ Abrir el archivo servidor.js desde VisualStudio y ejecutar en terminal :
 
 ## 5 - Ya podes Utitlizar el Sistema ! 🔩
 
-## 6 ENDPOINT
+## 6 - Descargate el YAML
+
+## 7 - ENDPOINT
 
 localhost:3000/v1
 
